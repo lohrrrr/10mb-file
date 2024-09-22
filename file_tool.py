@@ -4,7 +4,7 @@ debug = True
 from PIL import Image
 import os
 import ffmpeg
-from ffmpeg import probe
+#from ffmpeg import probe
 
 def image_type(image_path, size_out, output_path):
     # The most parts of this code parsed from stak overflow and i rly dont have any idea would it work or just make IMG bd qlty. This code is suck. I am so sorry
