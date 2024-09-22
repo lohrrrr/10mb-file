@@ -1,7 +1,4 @@
 # 10mb-file
- 
-
-# 10mb-file App
 =====================
 
 ## Overview
