@@ -40,12 +40,6 @@ def image_type(image_path, size_out, output_path):
     #AYO NO WAY WORKING CODE!
 
 
-
-#def video_type(video_path, tagret_size, output_path):
-#    # I'll try, maybe...
-#    import moviepy.editor as moviepy
-#    clip = moviepy.VideoFileClip(video_path)
-#    #---------------------------------------#
     
 def compress_video(video_full_path, output_file_name, target_size):
     # Reference: https://en.wikipedia.org/wiki/Bit_rate#Encoding_bit_rate
