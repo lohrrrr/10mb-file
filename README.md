@@ -44,3 +44,4 @@ This software is licensed under the MIT License. See LICENSE.txt for details.
 
 ## Contributing
 Contributions to the File Compressor App are welcome! If you'd like to report an issue or submit a pull request, please use the GitHub issues and pull requests features.
+P.S. shit skibidi rizz
